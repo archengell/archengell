@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### About me:
-- I'm kelly: an architect, structural engineer, swe, an artist.  
+- I'm kelly: I'm an architect, structural engineer, swe, and an artist.
 - I mostly work in aec-tech, and currently exploring 2d/3d computational geometry, optimization, and rendering techniques
 - I'm also continually testing out libraries, frameworks, languages, etc. to steadily increase my knowledge and acumen in software architecture/design
 ### Accumulated tech stack ( and growing ): 
