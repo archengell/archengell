@@ -3,7 +3,7 @@
 - I'm kelly: I'm an architect, artist, structural engineer, and swe.
 - I mostly work in aec-tech, and currently exploring 2d/3d computational geometry, optimization, and rendering techniques while founding a startup as CEO/CTO.
 - I'm also continually testing out libraries, frameworks, languages, etc. to steadily increase my knowledge and acumen in software architecture/design
-### Accumulated tech stack ( and growing ): 
+### Tech Experience ( and growing ): 
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
